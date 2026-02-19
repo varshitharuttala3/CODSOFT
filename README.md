@@ -33,5 +33,5 @@ Natural Language Processing
 
 Computer Vision
 
-Click Commit changes.
+
 
